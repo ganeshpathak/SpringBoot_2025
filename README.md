@@ -38,7 +38,7 @@ HelloWorld
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/your-username/HelloWorld.git
+git clone git clone https://github.com/your-username/HelloWorld.git
 cd HelloWorld
 ```
 
